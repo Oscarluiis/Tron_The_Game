@@ -13,6 +13,18 @@
 		4C6E64701F72DC70000906CC /* nice_music.ogg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E646F1F72DC70000906CC /* nice_music.ogg */; };
 		4C6E64721F72DC70000906CC /* sansation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E64711F72DC70000906CC /* sansation.ttf */; };
 		4C6E64741F72DC70000906CC /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E64731F72DC70000906CC /* icon.png */; };
+		4C6E647D1F72DDBA000906CC /* Wall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E647C1F72DDBA000906CC /* Wall.jpg */; };
+		4C6E647F1F72DFDE000906CC /* icono.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E647E1F72DFDE000906CC /* icono.png */; };
+		4C6E64811F72E060000906CC /* Tron_game.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E64801F72E060000906CC /* Tron_game.jpg */; };
+		4C6E64831F72E125000906CC /* Tron.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E64821F72E125000906CC /* Tron.jpg */; };
+		4C6E64851F72E2D7000906CC /* Tron_main.ogg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E64841F72E2D7000906CC /* Tron_main.ogg */; };
+		4C6E64871F72E45D000906CC /* CHICORY_.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E64861F72E45D000906CC /* CHICORY_.TTF */; };
+		4C6E64891F72E581000906CC /* Legacy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E64881F72E581000906CC /* Legacy.jpg */; };
+		4C6E64F61F733F35000906CC /* instrucciones.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E64F51F733F35000906CC /* instrucciones.png */; };
+		4C6E64F81F734F40000906CC /* Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E64F71F734F40000906CC /* Background.jpg */; };
+		4C6E64FA1F735112000906CC /* shader.frag in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E64F91F735112000906CC /* shader.frag */; };
+		4C6E64FC1F735F2D000906CC /* Instructions.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E64FB1F735F2D000906CC /* Instructions.jpg */; };
+		4C6E64FE1F736018000906CC /* Instruccion_.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E64FD1F736018000906CC /* Instruccion_.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +37,18 @@
 		4C6E646F1F72DC70000906CC /* nice_music.ogg */ = {isa = PBXFileReference; lastKnownFileType = file; path = nice_music.ogg; sourceTree = "<group>"; };
 		4C6E64711F72DC70000906CC /* sansation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sansation.ttf; sourceTree = "<group>"; };
 		4C6E64731F72DC70000906CC /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		4C6E647C1F72DDBA000906CC /* Wall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Wall.jpg; sourceTree = "<group>"; };
+		4C6E647E1F72DFDE000906CC /* icono.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icono.png; sourceTree = "<group>"; };
+		4C6E64801F72E060000906CC /* Tron_game.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Tron_game.jpg; sourceTree = "<group>"; };
+		4C6E64821F72E125000906CC /* Tron.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Tron.jpg; sourceTree = "<group>"; };
+		4C6E64841F72E2D7000906CC /* Tron_main.ogg */ = {isa = PBXFileReference; lastKnownFileType = file; path = Tron_main.ogg; sourceTree = "<group>"; };
+		4C6E64861F72E45D000906CC /* CHICORY_.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = CHICORY_.TTF; sourceTree = "<group>"; };
+		4C6E64881F72E581000906CC /* Legacy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Legacy.jpg; sourceTree = "<group>"; };
+		4C6E64F51F733F35000906CC /* instrucciones.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrucciones.png; sourceTree = "<group>"; };
+		4C6E64F71F734F40000906CC /* Background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Background.jpg; sourceTree = "<group>"; };
+		4C6E64F91F735112000906CC /* shader.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
+		4C6E64FB1F735F2D000906CC /* Instructions.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Instructions.jpg; sourceTree = "<group>"; };
+		4C6E64FD1F736018000906CC /* Instruccion_.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Instruccion_.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +101,19 @@
 		4C6E646C1F72DC70000906CC /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				4C6E64FD1F736018000906CC /* Instruccion_.png */,
+				4C6E64FB1F735F2D000906CC /* Instructions.jpg */,
+				4C6E64F91F735112000906CC /* shader.frag */,
+				4C6E64F71F734F40000906CC /* Background.jpg */,
+				4C6E64F51F733F35000906CC /* instrucciones.png */,
+				4C6E64881F72E581000906CC /* Legacy.jpg */,
 				4C6E646D1F72DC70000906CC /* cute_image.jpg */,
+				4C6E64861F72E45D000906CC /* CHICORY_.TTF */,
+				4C6E64841F72E2D7000906CC /* Tron_main.ogg */,
+				4C6E64821F72E125000906CC /* Tron.jpg */,
+				4C6E64801F72E060000906CC /* Tron_game.jpg */,
+				4C6E647E1F72DFDE000906CC /* icono.png */,
+				4C6E647C1F72DDBA000906CC /* Wall.jpg */,
 				4C6E646F1F72DC70000906CC /* nice_music.ogg */,
 				4C6E64711F72DC70000906CC /* sansation.ttf */,
 				4C6E64731F72DC70000906CC /* icon.png */,
@@ -145,7 +181,19 @@
 			files = (
 				4C6E64741F72DC70000906CC /* icon.png in Resources */,
 				4C6E64721F72DC70000906CC /* sansation.ttf in Resources */,
+				4C6E64FC1F735F2D000906CC /* Instructions.jpg in Resources */,
+				4C6E64FE1F736018000906CC /* Instruccion_.png in Resources */,
+				4C6E64831F72E125000906CC /* Tron.jpg in Resources */,
+				4C6E64F81F734F40000906CC /* Background.jpg in Resources */,
+				4C6E647F1F72DFDE000906CC /* icono.png in Resources */,
+				4C6E64891F72E581000906CC /* Legacy.jpg in Resources */,
+				4C6E64F61F733F35000906CC /* instrucciones.png in Resources */,
+				4C6E64871F72E45D000906CC /* CHICORY_.TTF in Resources */,
+				4C6E64FA1F735112000906CC /* shader.frag in Resources */,
+				4C6E647D1F72DDBA000906CC /* Wall.jpg in Resources */,
+				4C6E64811F72E060000906CC /* Tron_game.jpg in Resources */,
 				4C6E64701F72DC70000906CC /* nice_music.ogg in Resources */,
+				4C6E64851F72E2D7000906CC /* Tron_main.ogg in Resources */,
 				4C6E646E1F72DC70000906CC /* cute_image.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -306,6 +354,7 @@
 				4C6E64791F72DC70000906CC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
