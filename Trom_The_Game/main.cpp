@@ -316,7 +316,7 @@ void game(){
                 
                 
                 tex.setFillColor(p2.color);
-                escribir("\n\nGANADOR: Jugador1\t Score: 10 puntos");
+                escribir("\n\n GANADOR: Jugador1\t Score: 10 puntos");
                 
             }
             
@@ -329,7 +329,7 @@ void game(){
                 
                 
                 tex.setFillColor(p1.color);
-                escribir("\n\nGANADOR: Jugador2\t Score: 10 puntos");
+                escribir("\n\n GANADOR: Jugador2\t Score: 10 puntos");
             }
             
             field [p1.x] [p1.y] = 1;
